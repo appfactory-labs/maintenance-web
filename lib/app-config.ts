@@ -4,8 +4,8 @@ export const appConfig = {
   tagline: "Vehicle service history, reminders, and repair records in one simple place.",
   description:
     "Track oil changes, tire rotations, inspections, repairs, costs, mileage, and upcoming service tasks for every vehicle you care for.",
-  iosUrl: "#",
-  androidUrl: "#",
+  iosUrl: "https://apps.apple.com/app/id6778065486",
+  androidUrl: "https://play.google.com/store/apps/details?id=com.appfactorylabs.maintenancelog",
   company: "App Factory Labs",
   supportPath: "/support",
   supportApiPath: "/api/support",
